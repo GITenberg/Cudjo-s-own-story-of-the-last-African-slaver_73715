@@ -1,0 +1,39 @@
+_repo: Cudjo-s-own-story-of-the-last-African-slaver_73715
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurston, Zora Neale
+    birthdate: 1891
+    deathdate: 1960
+    gutenberg_agent_id: '6368'
+    url: http://www.gutenberg.org/2009/agents/6368
+    wikipedia: https://en.wikipedia.org/wiki/Zora_Neale_Hurston
+description: ''
+gutenberg_issued: '2024-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73715'
+language: en
+pgterms:marc905: 20240401125605hurston
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aEastford, CT :$bMartino Fine Books, $c1927, reprint 2020.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Enslaved persons -- Alabama -- Biography'
+- !lcsh 'Lewis, Cudjo, 1841?-1935'
+- !lcsh 'Clotilda (Ship)'
+- !lcsh 'West Africans -- Alabama -- Biography'
+- !lcsh 'Slave trade -- Alabama -- Mobile -- History -- 19th century'
+- !lcsh 'Slave trade -- United States -- History -- 19th century'
+- !lcsh 'Slave trade -- Africa -- History -- 19th century'
+- !lcsh 'Slavery -- Alabama -- History -- 19th century'
+- !lcsh 'Slave ships -- Alabama'
+- !lcsh 'Mobile (Ala.) -- History -- 19th century'
+- !lcc 'E300'
+- GITenberg
+title: Cudjo's own story of the last African slaver
+url: http://www.gutenberg.org/ebooks/73715
